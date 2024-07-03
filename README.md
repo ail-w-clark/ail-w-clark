@@ -3,6 +3,10 @@
 ## Data Science Projects:
 * [Capstone](https://github.com/ail-w-clark/capstone)
 
+## AI Projects:
+* [Chatbot](https://github.com/ail-w-clark/chatbot)
+* 
+
 <!--
 **ail-w-clark/ail-w-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
