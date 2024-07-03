@@ -5,7 +5,9 @@
 
 ## AI Projects:
 * [Chatbot](https://github.com/ail-w-clark/chatbot)
-* 
+
+## Other Programming Projects:
+* [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
 
 <!--
 **ail-w-clark/ail-w-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
