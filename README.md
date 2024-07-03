@@ -1,13 +1,16 @@
 # Ail's Portfolio
 
 ## Data Science Projects:
-* [Capstone](https://github.com/ail-w-clark/capstone)
+* [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
 
-## AI Projects:
-* [Chatbot](https://github.com/ail-w-clark/chatbot)
+## Python Projects:
+* [Routing Program](https://github.com/ail-w-clark/routing_program)
 
-## Other Programming Projects:
-* [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
+## C++ Projects:
+* [Student Roster Program](https://github.com/ail-w-clark/class_roster)
+
+## Other Projects:
+* [Chatbot (XML)](https://github.com/ail-w-clark/chatbot)
 
 <!--
 **ail-w-clark/ail-w-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
