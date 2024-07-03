@@ -1,15 +1,9 @@
 # Ail's Portfolio
 
-## Data Science Projects:
+Projects:
 * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
-
-## Python Projects:
-* [Routing Program](https://github.com/ail-w-clark/routing_program)
-
-## C++ Projects:
-* [Student Roster Program](https://github.com/ail-w-clark/class_roster)
-
-## Other Projects:
+* [Routing Program (Python)](https://github.com/ail-w-clark/routing_program)
+* [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
 * [Chatbot (XML)](https://github.com/ail-w-clark/chatbot)
 * [Robot Project (Python)](https://github.com/ail-w-clark/robot_project)
 
