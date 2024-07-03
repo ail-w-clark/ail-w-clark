@@ -1,4 +1,7 @@
-## Hi there 👋
+# Ail's Portfolio
+
+## Data Science Projects:
+* [Capstone](https://github.com/ail-w-clark/capstone)
 
 <!--
 **ail-w-clark/ail-w-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
