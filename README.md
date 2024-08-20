@@ -7,6 +7,9 @@ Projects:
 * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
 * [Chatbot (XML)](https://github.com/ail-w-clark/chatbot)
 * [Robot Project (Python)](https://github.com/ail-w-clark/robot_project)
+* [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimalToRoman)
+
+  - 🌱 I’m currently learning Javascript and working on projects using freeCodeCamp
 
 <!--
 **ail-w-clark/ail-w-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
