@@ -8,6 +8,7 @@ Projects:
 * [Chatbot (XML)](https://github.com/ail-w-clark/chatbot)
 * [Robot Project (Python)](https://github.com/ail-w-clark/robot_project)
 * [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimalToRoman)
+* [Bar Chart (Data Visualization)](https://github.com/ail-w-clark/bar_chart)
 
   - 🌱 I’m currently learning Javascript and working on projects using freeCodeCamp
 
