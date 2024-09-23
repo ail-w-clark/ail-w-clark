@@ -15,7 +15,7 @@ Projects:
 * [Choloropleth Map (Data Visualization)](https://github.com/ail-w-clark/chloropleth_map)
 * [World Cup Database (Relational Databases)](https://github.com/ail-w-clark/worldcup_DB)
 * [Appointment Scheduler (Relational Databases)](https://github.com/ail-w-clark/appointment_scheduler)
-* [Number Guessing Game (Relational Databases)](https://github.com/ail-w-clark/heat_map)
+* [Number Guessing Game (Relational Databases)](https://github.com/ail-w-clark/number_guessing_game)
 
   - 🌱 I’m currently learning Javascript and working on projects using freeCodeCamp
 
