@@ -9,6 +9,13 @@ Projects:
 * [Robot Project (Python)](https://github.com/ail-w-clark/robot_project)
 * [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimalToRoman)
 * [Bar Chart (Data Visualization)](https://github.com/ail-w-clark/bar_chart)
+* [Scatterplot (Data Visualization)](https://github.com/ail-w-clark/scatterplot)
+* [Heat Map (Data Visualization)](https://github.com/ail-w-clark/heat_map)
+* [Tree Map (Data Visualization)](https://github.com/ail-w-clark/tree_map)
+* [Choloropleth Map (Data Visualization)](https://github.com/ail-w-clark/chloropleth_map)
+* [World Cup Database (Relational Databases)](https://github.com/ail-w-clark/worldcup_DB)
+* [Appointment Scheduler (Relational Databases)](https://github.com/ail-w-clark/appointment_scheduler)
+* [Number Guessing Game (Relational Databases)](https://github.com/ail-w-clark/heat_map)
 
   - 🌱 I’m currently learning Javascript and working on projects using freeCodeCamp
 
