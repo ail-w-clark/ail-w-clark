@@ -7,7 +7,7 @@ Projects:
 * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
 * [Chatbot (XML)](https://github.com/ail-w-clark/chatbot)
 * [Robot Project (Python)](https://github.com/ail-w-clark/robot_project)
-* [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimalToRoman)
+* [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimal_to_roman)
 * [Bar Chart (Data Visualization)](https://codepen.io/ailClark/pen/xxoMjJQ)
 * [Scatterplot (Data Visualization)](https://codepen.io/ailClark/pen/WNqmwXM)
 * [Heat Map (Data Visualization)](https://codepen.io/ailClark/pen/qBzvNep)
