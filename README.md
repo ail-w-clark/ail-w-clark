@@ -1,21 +1,26 @@
 # Ailene's Portfolio
 
-Projects:
-* [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
-* [Routing Program (Python)](https://github.com/ail-w-clark/routing_program)
-* [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
-* [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
-* [Chatbot (XML)](https://github.com/ail-w-clark/chatbot)
-* [Robot Project (Python)](https://github.com/ail-w-clark/robot_project)
-* [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimal_to_roman)
-* [Bar Chart (Data Visualization)](https://codepen.io/ailClark/pen/xxoMjJQ)
-* [Scatterplot (Data Visualization)](https://codepen.io/ailClark/pen/WNqmwXM)
-* [Heat Map (Data Visualization)](https://codepen.io/ailClark/pen/qBzvNep)
-* [Tree Map (Data Visualization)](https://codepen.io/ailClark/pen/KKjYxzK)
-* [Choloropleth Map (Data Visualization)](https://codepen.io/ailClark/pen/xxoBQPE)
-* [World Cup Database (Relational Databases)](https://github.com/ail-w-clark/worldcup_DB)
-* [Appointment Scheduler (Relational Databases)](https://github.com/ail-w-clark/appointment_scheduler)
-* [Number Guessing Game (Relational Databases)](https://github.com/ail-w-clark/number_guessing_game)
+Projects
+* Relational Databases:
+  * [World Cup Database](https://github.com/ail-w-clark/worldcup_DB)
+  * [Appointment Scheduler](https://github.com/ail-w-clark/appointment_scheduler)
+  * [Number Guessing Game](https://github.com/ail-w-clark/number_guessing_game)
+    
+* Data Visualization:
+  * [Bar Chart](https://codepen.io/ailClark/pen/xxoMjJQ)
+  * [Scatterplot](https://codepen.io/ailClark/pen/WNqmwXM)
+  * [Heat Map](https://codepen.io/ailClark/pen/qBzvNep)
+  * [Tree Map](https://codepen.io/ailClark/pen/KKjYxzK)
+  * [Choloropleth Map](https://codepen.io/ailClark/pen/xxoBQPE)
+    
+* Machine Learning:
+ * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
+   
+* Misc.:
+  * [Routing Program (Python)](https://github.com/ail-w-clark/routing_program)
+  * [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
+  * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
+  * [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimal_to_roman)
 
 
 
