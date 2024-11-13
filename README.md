@@ -14,6 +14,13 @@ Projects
   * [Stock Checker (Javascript)](https://github.com/ail-w-clark/stock_checker)
   * [Message Board (Javascript)](https://gihub.com/ail-w-clark/messageboard)
   * [Secure Real Time Multiplayer Game (Javascript)](https://github.com/ail-w-clark/secure_rt_multiplayer_game)
+
+* Quality Assurance:
+  * [Issue Tracker (Javascript)](https://github.com/ail-w-clark/issue_tracker)
+  * [Metric-Imperial Converter (Javascript)](https://github.com/ail-w-clark/metric_imperial_converter)
+  * [Personal Library (Javascript)](https://github.com/ail-w-clark/personal_library)
+  * [Sudoku Solver (Javascript)](https://github.com/ail-w-clark/sudoku)
+  * [American-British Translator (Javascript)](https://github.com/ail-w-clark/american_british_translator)
     
 * Relational Databases:
   * [World Cup Database](https://github.com/ail-w-clark/worldcup_DB)
@@ -31,7 +38,6 @@ Projects
   * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
    
 * Misc:
-  * [Issue Tracker (Javascript)](https://github.com/ail-w-clark/issue_tracker)
   * [Routing Program (Python)](https://github.com/ail-w-clark/routing_program)
   * [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
   * [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimal_to_roman)
