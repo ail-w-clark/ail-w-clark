@@ -23,9 +23,9 @@ Projects
   * [American-British Translator (Javascript)](https://github.com/ail-w-clark/american_british_translator)
     
 * Relational Databases:
-  * [World Cup Database](https://github.com/ail-w-clark/worldcup_DB)
-  * [Appointment Scheduler](https://github.com/ail-w-clark/appointment_scheduler)
-  * [Number Guessing Game](https://github.com/ail-w-clark/number_guessing_game)
+  * [World Cup Database (Bash/SQL)](https://github.com/ail-w-clark/worldcup_DB)
+  * [Appointment Scheduler (Bash/SQL)](https://github.com/ail-w-clark/appointment_scheduler)
+  * [Number Guessing Game (Bash/SQL)](https://github.com/ail-w-clark/number_guessing_game)
     
 * Data Visualization:
   * [Bar Chart](https://codepen.io/ailClark/pen/xxoMjJQ)
