@@ -15,10 +15,14 @@ Projects
     
 * Machine Learning:
   * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
+ 
+* Back End Development and API's:
+  * [Exercise Tracker (Javascript)](https://github.com/ail-w-clark/exercise_tracker)
+  * [URL Shortener Microservice (Javascript)](https://github.com/ail-w-clark/url_shortener)
+  * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
    
 * Full Programs:
   * [Issue Tracker (Javascript)](https://github.com/ail-w-clark/issue_tracker)
-  * [Exercise Tracker (Javascript)](https://github.com/ail-w-clark/exercise_tracker)
   * [Routing Program (Python)](https://github.com/ail-w-clark/routing_program)
   * [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
   * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
