@@ -1,6 +1,20 @@
 # My Portfolio
 
 Projects
+* Back End Development and API's:
+  * [Exercise Tracker (Javascript)](https://github.com/ail-w-clark/exercise_tracker)
+  * [URL Shortener Microservice (Javascript)](https://github.com/ail-w-clark/url_shortener)
+  * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
+ 
+* Front End Development Libraries:
+  * [Focus-Recharge Clock](https://github.com/ail-w-clark/focus_recharge_clock)
+  * [Calculator (Javascript)](https://github.com/ail-w-clark/calculator)
+
+* Information Security:
+  * [Stock Checker (Javascript)](https://github.com/ail-w-clark/stock_checker)
+  * [Message Board (Javascript)](https://gihub.com/ail-w-clark/messageboard)
+  * [Secure Real Time Multiplayer Game (Javascript)](https://github.com/ail-w-clark/secure_rt_multiplayer_game)
+    
 * Relational Databases:
   * [World Cup Database](https://github.com/ail-w-clark/worldcup_DB)
   * [Appointment Scheduler](https://github.com/ail-w-clark/appointment_scheduler)
@@ -15,11 +29,6 @@ Projects
     
 * Machine Learning:
   * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
- 
-* Back End Development and API's:
-  * [Exercise Tracker (Javascript)](https://github.com/ail-w-clark/exercise_tracker)
-  * [URL Shortener Microservice (Javascript)](https://github.com/ail-w-clark/url_shortener)
-  * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
    
 * Misc:
   * [Issue Tracker (Javascript)](https://github.com/ail-w-clark/issue_tracker)
