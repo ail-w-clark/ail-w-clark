@@ -14,7 +14,7 @@ Projects
   * [Choloropleth Map](https://codepen.io/ailClark/pen/xxoBQPE)
     
 * Machine Learning:
- * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
+  * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
    
 * Misc.:
   * [Routing Program (Python)](https://github.com/ail-w-clark/routing_program)
