@@ -28,11 +28,11 @@ Projects
   * [Number Guessing Game (Bash/SQL)](https://github.com/ail-w-clark/number_guessing_game)
     
 * Data Visualization:
-  * [Bar Chart](https://codepen.io/ailClark/pen/xxoMjJQ)
-  * [Scatterplot](https://codepen.io/ailClark/pen/WNqmwXM)
-  * [Heat Map](https://codepen.io/ailClark/pen/qBzvNep)
-  * [Tree Map](https://codepen.io/ailClark/pen/KKjYxzK)
-  * [Choloropleth Map](https://codepen.io/ailClark/pen/xxoBQPE)
+  * [Bar Chart (Javascript)](https://codepen.io/ailClark/pen/xxoMjJQ)
+  * [Scatterplot (Javascript)](https://codepen.io/ailClark/pen/WNqmwXM)
+  * [Heat Map (Javascript)](https://codepen.io/ailClark/pen/qBzvNep)
+  * [Tree Map (Javascript)](https://codepen.io/ailClark/pen/KKjYxzK)
+  * [Choloropleth Map (Javascript)](https://codepen.io/ailClark/pen/xxoBQPE)
     
 * Machine Learning:
   * [Capstone - RTI Grouper (Python)](https://github.com/ail-w-clark/capstone)
