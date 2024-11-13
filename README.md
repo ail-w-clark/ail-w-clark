@@ -7,7 +7,7 @@ Projects
   * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
  
 * Front End Development Libraries:
-  * [Focus-Recharge Clock](https://github.com/ail-w-clark/focus_recharge_clock)
+  * [Focus-Recharge Clock (Javascript)](https://github.com/ail-w-clark/focus_recharge_clock)
   * [Calculator (Javascript)](https://github.com/ail-w-clark/calculator)
 
 * Information Security:
