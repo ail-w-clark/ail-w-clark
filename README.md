@@ -17,7 +17,7 @@ Projects:
 * [Appointment Scheduler (Relational Databases)](https://github.com/ail-w-clark/appointment_scheduler)
 * [Number Guessing Game (Relational Databases)](https://github.com/ail-w-clark/number_guessing_game)
 
-  - 🌱 I’m currently working on my Quality Assurance certificate using freeCodeCamp
+
 
 <!--
 **ail-w-clark/ail-w-clark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
