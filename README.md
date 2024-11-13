@@ -21,11 +21,10 @@ Projects
   * [URL Shortener Microservice (Javascript)](https://github.com/ail-w-clark/url_shortener)
   * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
    
-* Full Programs:
+* Misc:
   * [Issue Tracker (Javascript)](https://github.com/ail-w-clark/issue_tracker)
   * [Routing Program (Python)](https://github.com/ail-w-clark/routing_program)
   * [Student Roster Program (C++)](https://github.com/ail-w-clark/class_roster)
-  * [Back-End Programming Project (Java)](https://github.com/ail-w-clark/back_end)
   * [Decimal to Roman Numeral Convertor (Javascript)](https://github.com/ail-w-clark/decimal_to_roman)
 
 
