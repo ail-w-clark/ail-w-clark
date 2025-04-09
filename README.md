@@ -11,7 +11,7 @@ Projects
   * [Calculator (Javascript)](https://github.com/ail-w-clark/calculator)
 
 * Information Security:
-  * [Stock Checker (Javascript)](https://github.com/ail-w-clark/stock_checker)
+  * [Stock Checker (Javascript)](https://github.com/ail-w-clark/stockchecker)
   * [Message Board (Javascript)](https://gihub.com/ail-w-clark/messageboard)
   * [Secure Real Time Multiplayer Game (Javascript)](https://github.com/ail-w-clark/secure_rt_multiplayer_game)
 
